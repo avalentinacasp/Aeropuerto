@@ -1,0 +1,16 @@
+{
+  "name": "aeropuerto",
+  "version": "1.0.0",
+  "description": "API de gestion de pilotos, aviones y asignaciones",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
